@@ -18,6 +18,6 @@
 
 [twitter]: https://twitter.com/Shakira
 [instagram]: https://www.instagram.com/Shakira
-[linkedin]: https://linkedin.com/in/Shakirao
+[linkedin]: https://linkedin.com/in/Solani
 
 
