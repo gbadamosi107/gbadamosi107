@@ -14,8 +14,7 @@
 
 [<img align="left" alt="Shakira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/
-shaira-adamosi-2825a527a
+[linkedin]: https://linkedin.com/in/shaira-adamosi
 
 
 
